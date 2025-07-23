@@ -1,6 +1,6 @@
 # Pi Keyboard
 
-A custom breadboard keyboard using a Raspberry Pi that sends keyboard events to a PC over TCP.
+A custom breadboard keyboard using a Raspberry Pi that sends keyboard events to a PC over TCP. I used this for gaming since I thought it was funny, but it can be repurposed for any application that requires keyboard input.
 
 ## Hardware Setup
 
